@@ -1,224 +1,158 @@
+<div align="center">
+
 # 👋 Olá, eu sou André Gomes | Hi, I'm André Gomes
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Web;JavaScript+%7C+Java+%7C+HTML+%7C+CSS;Sempre+aprendendo+novas+tecnologias+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+%7C+Python;React+%7C+Django+%7C+Flask;JSF+%7C+PrimeFaces+%7C+Node.js;Sempre+aprendendo+novas+tecnologias+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/Dev-AndreGomes">
-    <img src="https://img.shields.io/github/followers/Dev-AndreGomes?style=for-the-badge&label=Followers"/>
-  </a>
-  <a href="https://github.com/Dev-AndreGomes">
-    <img src="https://img.shields.io/github/stars/Dev-AndreGomes?affiliations=OWNER&style=for-the-badge&label=Stars"/>
-  </a>
-</p>
+<br>
 
----
+<a href="https://github.com/Dev-AndreGomes">
+  <img src="https://img.shields.io/github/followers/Dev-AndreGomes?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Dev-AndreGomes&style=for-the-badge&color=0e75b6" alt="Profile views" />
 
-# 🌍 Idioma | Language
+</div>
 
-* 🇧🇷 Português
-* 🇺🇸 English (scroll down)
+<br>
 
----
+## 🇧🇷 Sobre mim
 
-# 🇧🇷 Sobre mim
+Sou desenvolvedor **Full Stack** apaixonado por tecnologia e boas práticas de engenharia de software.
 
-💻 Desenvolvedor apaixonado por tecnologia e desenvolvimento web.
+Tenho experiência no desenvolvimento de aplicações web, APIs REST e sistemas de gerenciamento utilizando **Java** e **Python**, tanto no back-end quanto no front-end.
 
-🚀 Tenho experiência com JavaScript, Java, HTML e CSS.
-
-🔗 Gosto de criar APIs, aplicações web e sistemas de gerenciamento de dados.
-
-📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento.
+Atualmente estou aprofundando meus conhecimentos em arquitetura de software, Clean Code e frameworks modernos como Spring Boot, React e Django.
 
 ---
 
 ## 🚀 Tecnologias
 
-### Front-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+**Linguagens**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Linguagens" />
 </p>
 
-### Back-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=java"/>
+**Frameworks & Back-end**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs" alt="Frameworks" />
+  <img src="https://img.shields.io/badge/JSF-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JSF" />
+  <img src="https://img.shields.io/badge/PrimeFaces-1B6AC6?style=for-the-badge&logo=java&logoColor=white" alt="PrimeFaces" />
 </p>
 
-### Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+**Front-end**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Front-end" />
 </p>
+
+**Banco de dados**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Banco de dados" />
+</p>
+
+**Ferramentas**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Ferramentas" />
+</p>
+
+---
+
+## 🌱 Atualmente estudando
+
+`Spring Boot` · `React` · `Django` · `Flask` · `Arquitetura de Software` · `APIs REST` · `Clean Code`
 
 ---
 
 ## 📌 Projetos em destaque
 
-### 📚 EducaMidia
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 📚 **[EducaMidia](https://github.com/Dev-AndreGomes/EducaMidia)** | Sistema web voltado para educação | JavaScript, HTML, CSS |
+| 🔌 **[LibraryApi](https://github.com/Dev-AndreGomes/LibraryApi)** | API REST para gerenciamento de biblioteca | JavaScript, Node.js |
+| 🗄️ **[Gerenciamento de Dados](https://github.com/Dev-AndreGomes)** | Sistema desktop em Java | Java |
+| 🎮 **[Site GTA](https://github.com/Dev-AndreGomes)** | Landing page inspirada no universo GTA | HTML, CSS |
+| 🧙 **[Solo Leveling Wiki](https://github.com/Dev-AndreGomes)** | Projeto front-end inspirado na obra Solo Leveling | HTML, CSS |
+| 🍳 **[WebRecipe](https://github.com/Dev-AndreGomes)** | Sistema web para receitas culinárias | HTML, CSS, JavaScript |
 
-Aplicação web voltada para educação e mídia digital.
-
-`Tecnologias: JavaScript`
-
-### 🗄️ Gerenciamento de Dados
-
-Sistema desenvolvido em Java para organização e manipulação de dados.
-
-`Tecnologias: Java`
-
-### 🔌 LibraryApi
-
-API para gerenciamento de biblioteca e recursos.
-
-`Tecnologias: JavaScript`
-
-### 🎮 Site GTA
-
-Projeto front-end inspirado no universo GTA.
-
-`Tecnologias: HTML • CSS`
-
-### 🧙 Solo Leveling Wiki
-
-Wiki temática com interface web personalizada.
-
-`Tecnologias: HTML • CSS`
-
-### 🍳 WebRecipe
-
-Aplicação web para receitas culinárias.
-
-`Tecnologias: HTML • CSS • JavaScript`
+> 💡 Dica: substitua os links da tabela pelos links reais de cada repositório assim que estiverem publicados.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
-<p align="center">
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-AndreGomes&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-AndreGomes&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</div>
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=Dev-AndreGomes&show_icons=true&theme=github_dark&hide_border=true"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dev-AndreGomes&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dev-AndreGomes&layout=compact&theme=github_dark&hide_border=true"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-AndreGomes&theme=github-dark" alt="Activity Graph" />
+</div>
 
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-AndreGomes&theme=algolia&no-frame=true&margin-w=10" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dev-AndreGomes/Dev-AndreGomes/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
-
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Dev-AndreGomes&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
 
 ## 📫 Contato
 
-<p>
+<div align="center">
 
-<!-- Troque pelos links reais do André -->
-<a href="https://github.com/Dev-AndreGomes">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<a href="https://github.com/Dev-AndreGomes"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/andregomesdossantosfilho"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:dev.andregomess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-</p>
+</div>
 
----
+<div align="center">
 
-<p align="center">
+### ⭐ Obrigado pela visita!
 
-### ⭐ Obrigado por visitar meu perfil!
+> *"Transformando ideias em soluções através da tecnologia."*
 
-*"Código é transformar ideias em realidade."*
+</div>
 
-</p>
-
----
----
-
-# 🇺🇸 About Me
-
-💻 Passionate developer focused on web development, APIs and data management systems.
-
-🚀 Experienced with JavaScript, Java, HTML and CSS.
-
-🔗 I enjoy building APIs, web applications and data management systems.
-
-📚 Always studying new technologies and best development practices.
+<br>
 
 ---
 
-## 🚀 Tech Stack
+## 🇺🇸 About Me
 
-### Front-end
+I'm a **Full Stack Developer** passionate about technology and solid software engineering practices.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
+I have experience building web applications, REST APIs, and management systems using **Java** and **Python**, across both back-end and front-end.
 
-### Back-end
+I'm currently deepening my knowledge of software architecture, Clean Code, and modern frameworks such as Spring Boot, React, and Django.
 
-<p>
-<img src="https://skillicons.dev/icons?i=java"/>
-</p>
+### Tech Stack
 
-### Tools
+**Languages:** Java, Python, JavaScript
+**Frameworks:** Spring, Django, Flask, Node.js, JSF, PrimeFaces
+**Front-end:** HTML, CSS, JavaScript, React
+**Database:** MySQL
+**Tools:** Git, GitHub, VS Code, IntelliJ IDEA
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
+### Featured Projects
 
----
+- 📚 **EducaMidia** — Educational web application
+- 🔌 **LibraryApi** — REST API for library management
+- 🗄️ **Data Management** — Java desktop application
+- 🎮 **GTA Site** — GTA-inspired landing page
+- 🧙 **Solo Leveling Wiki** — Front-end fan project
+- 🍳 **WebRecipe** — Recipe management web application
 
-## 📌 Featured Projects
+<div align="center">
 
-### 📚 EducaMidia
+### ⭐ Thanks for visiting!
 
-Web application focused on education and digital media.
+> *"Turning ideas into solutions through technology."*
 
-`Tech: JavaScript`
-
-### 🗄️ Data Management
-
-Java-based system for organizing and manipulating data.
-
-`Tech: Java`
-
-### 🔌 LibraryApi
-
-API for library and resource management.
-
-`Tech: JavaScript`
-
-### 🎮 GTA Site
-
-Front-end project inspired by the GTA universe.
-
-`Tech: HTML • CSS`
-
-### 🧙 Solo Leveling Wiki
-
-Themed wiki with a custom web interface.
-
-`Tech: HTML • CSS`
-
-### 🍳 WebRecipe
-
-Web application for cooking recipes.
-
-`Tech: HTML • CSS • JavaScript`
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code is turning ideas into reality."*
-
-</p>
+</div>
