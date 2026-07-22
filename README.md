@@ -27,26 +27,27 @@ Atualmente estou aprofundando meus conhecimentos em arquitetura de software, Cle
 
 ## 🚀 Tecnologias
 
-**Linguagens**
+**Stack Java**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Linguagens" />
-</p>
-
-**Frameworks & Back-end**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,spring" alt="Stack Java" />
   <img src="https://img.shields.io/badge/JSF-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JSF" />
   <img src="https://img.shields.io/badge/PrimeFaces-1B6AC6?style=for-the-badge&logo=java&logoColor=white" alt="PrimeFaces" />
 </p>
 
-**Front-end**
+**Stack Python**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Front-end" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask" alt="Stack Python" />
+</p>
+
+**Stack React & Node**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css" alt="Stack React e Node" />
 </p>
 
 **Banco de dados**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Banco de dados" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Banco de dados" />
+  <img src="https://img.shields.io/badge/DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2" />
 </p>
 
 **Ferramentas**
@@ -134,10 +135,10 @@ I'm currently deepening my knowledge of software architecture, Clean Code, and m
 
 ### Tech Stack
 
-**Languages:** Java, Python, JavaScript
-**Frameworks:** Spring, Django, Flask, Node.js, JSF, PrimeFaces
-**Front-end:** HTML, CSS, JavaScript, React
-**Database:** MySQL
+**Java stack:** Java, Spring, JSF, PrimeFaces
+**Python stack:** Python, Django, Flask
+**React & Node stack:** React, Node.js, JavaScript, HTML, CSS
+**Database:** MySQL, PostgreSQL, DB2
 **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
 
 ### Featured Projects
