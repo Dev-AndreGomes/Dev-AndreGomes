@@ -116,15 +116,6 @@ Aplicação web para receitas culinárias.
 
 ---
 
-## 🐍 Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Dev-AndreGomes/Dev-AndreGomes/output/github-contribution-grid-snake.svg"/>
-</p>
-
-> ⚠️ Essa animação precisa de um GitHub Action configurado no repositório (`Platane/snk`) para ser gerada automaticamente. Se ainda não tiver, me avise que te ajudo a configurar.
-
----
 
 ## 📫 Contato
 
