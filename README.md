@@ -46,13 +46,14 @@ Atualmente estou aprofundando meus conhecimentos em arquitetura de software, Cle
 
 **Banco de dados**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Banco de dados" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Banco de dados" />
   <img src="https://img.shields.io/badge/DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2" />
 </p>
 
 **Ferramentas**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Ferramentas" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
 </p>
 
 ---
@@ -70,9 +71,8 @@ Atualmente estou aprofundando meus conhecimentos em arquitetura de software, Cle
 | 📚 **[EducaMidia](https://github.com/Dev-AndreGomes/EducaMidia)** | Sistema web voltado para educação | JavaScript, HTML, CSS |
 | 🔌 **[LibraryApi](https://github.com/Dev-AndreGomes/LibraryApi)** | API REST para gerenciamento de biblioteca | JavaScript, Node.js |
 | 🗄️ **Gerenciamento de Dados** | Sistema desktop em Java | Java |
-| 🎮 **Site GTA** | Landing page inspirada no universo GTA | HTML, CSS |
-| 🧙 **Solo Leveling Wiki** | Projeto front-end inspirado na obra Solo Leveling | HTML, CSS |
-| 🍳 **WebRecipe** | Sistema web para receitas culinárias | HTML, CSS, JavaScript |
+
+> 🔜 Novos projetos em breve!
 
 ---
 
@@ -125,28 +125,35 @@ Atualmente estou aprofundando meus conhecimentos em arquitetura de software, Cle
 
 ## 🇺🇸 About Me
 
-I'm a **Full Stack Developer** passionate about technology and solid software engineering practices.
+I'm a **Full Stack Developer** with a strong interest in software engineering practices, clean architecture, and building applications that are both functional and maintainable.
 
-I have experience building web applications, REST APIs, and management systems using **Java** and **Python**, across both back-end and front-end.
+My background spans both the **Java** and **Python** ecosystems, which lets me move comfortably across back-end and front-end work — from designing REST APIs and data-driven systems to building the interfaces that consume them.
 
-I'm currently deepening my knowledge of software architecture, Clean Code, and modern frameworks such as Spring Boot, React, and Django.
+Right now, I'm focused on leveling up in three areas:
 
-### Tech Stack
+- 🏗️ **Software architecture** — writing code that scales and stays readable as projects grow
+- 🧹 **Clean Code principles** — applying them beyond theory, in real day-to-day development
+- ⚙️ **Modern frameworks** — going deeper into Spring Boot, React, and Django
 
-**Java:** Java, Spring, JSF, PrimeFaces
-**Python:** Python, Django, Flask
-**JavaScript / Front-end:** JavaScript, React, Node.js, HTML, CSS
-**Database:** MySQL, PostgreSQL, DB2
-**Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+I enjoy the process of turning a problem into a working system — thinking through the data model, the API contracts, and the user experience, and then actually seeing it come together end to end.
 
-### Featured Projects
+### 🛠️ Tech Stack
 
-- 📚 **EducaMidia** — Educational web application
+| Area | Technologies |
+|---|---|
+| **Java** | Java, Spring, JSF, PrimeFaces |
+| **Python** | Python, Django, Flask |
+| **JavaScript / Front-end** | JavaScript, React, Node.js, HTML, CSS |
+| **Databases** | MySQL, PostgreSQL, SQLite, IBM DB2 |
+| **Tools** | Git, GitHub, VS Code, IntelliJ IDEA, DBeaver |
+
+### 📌 Featured Projects
+
+- 📚 **EducaMidia** — Web application focused on education
 - 🔌 **LibraryApi** — REST API for library management
 - 🗄️ **Data Management** — Java desktop application
-- 🎮 **GTA Site** — GTA-inspired landing page
-- 🧙 **Solo Leveling Wiki** — Front-end fan project
-- 🍳 **WebRecipe** — Recipe management web application
+
+> 🔜 New projects coming soon!
 
 <div align="center">
 
