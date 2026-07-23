@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou André Gomes | Hi, I'm André Gomes
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+%7C+Python;React+%7C+Django+%7C+Flask;JSF+%7C+PrimeFaces+%7C+Node.js;Sempre+aprendendo+novas+tecnologias+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;Python+%7C+Django+%7C+Flask;JavaScript+%7C+React+%7C+Node.js;Sempre+aprendendo+novas+tecnologias+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
@@ -27,21 +27,21 @@ Atualmente estou aprofundando meus conhecimentos em arquitetura de software, Cle
 
 ## 🚀 Tecnologias
 
-**Stack Java**
+**Java**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring" alt="Stack Java" />
   <img src="https://img.shields.io/badge/JSF-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JSF" />
   <img src="https://img.shields.io/badge/PrimeFaces-1B6AC6?style=for-the-badge&logo=java&logoColor=white" alt="PrimeFaces" />
 </p>
 
-**Stack Python**
+**Python**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,flask" alt="Stack Python" />
 </p>
 
-**Stack React & Node**
+**JavaScript / Front-end**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css" alt="Stack React e Node" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,html,css" alt="Stack JavaScript" />
 </p>
 
 **Banco de dados**
@@ -69,12 +69,10 @@ Atualmente estou aprofundando meus conhecimentos em arquitetura de software, Cle
 |---|---|---|
 | 📚 **[EducaMidia](https://github.com/Dev-AndreGomes/EducaMidia)** | Sistema web voltado para educação | JavaScript, HTML, CSS |
 | 🔌 **[LibraryApi](https://github.com/Dev-AndreGomes/LibraryApi)** | API REST para gerenciamento de biblioteca | JavaScript, Node.js |
-| 🗄️ **[Gerenciamento de Dados](https://github.com/Dev-AndreGomes)** | Sistema desktop em Java | Java |
-| 🎮 **[Site GTA](https://github.com/Dev-AndreGomes)** | Landing page inspirada no universo GTA | HTML, CSS |
-| 🧙 **[Solo Leveling Wiki](https://github.com/Dev-AndreGomes)** | Projeto front-end inspirado na obra Solo Leveling | HTML, CSS |
-| 🍳 **[WebRecipe](https://github.com/Dev-AndreGomes)** | Sistema web para receitas culinárias | HTML, CSS, JavaScript |
-
-> 💡 Dica: substitua os links da tabela pelos links reais de cada repositório assim que estiverem publicados.
+| 🗄️ **Gerenciamento de Dados** | Sistema desktop em Java | Java |
+| 🎮 **Site GTA** | Landing page inspirada no universo GTA | HTML, CSS |
+| 🧙 **Solo Leveling Wiki** | Projeto front-end inspirado na obra Solo Leveling | HTML, CSS |
+| 🍳 **WebRecipe** | Sistema web para receitas culinárias | HTML, CSS, JavaScript |
 
 ---
 
@@ -135,9 +133,9 @@ I'm currently deepening my knowledge of software architecture, Clean Code, and m
 
 ### Tech Stack
 
-**Java stack:** Java, Spring, JSF, PrimeFaces
-**Python stack:** Python, Django, Flask
-**React & Node stack:** React, Node.js, JavaScript, HTML, CSS
+**Java:** Java, Spring, JSF, PrimeFaces
+**Python:** Python, Django, Flask
+**JavaScript / Front-end:** JavaScript, React, Node.js, HTML, CSS
 **Database:** MySQL, PostgreSQL, DB2
 **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
 
