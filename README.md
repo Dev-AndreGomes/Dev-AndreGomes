@@ -1,164 +1,30 @@
 <div align="center">
-
-# 👋 Olá, eu sou André Gomes | Hi, I'm André Gomes
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;Python+%7C+Django+%7C+Flask;JavaScript+%7C+React+%7C+Node.js;Sempre+aprendendo+novas+tecnologias+%F0%9F%9A%80" alt="Typing SVG" />
-
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                        ANDRÉ GOMES                             -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0e14,50:0f172a,100:00d2ff&text=André%20Gomes&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20Java%20%E2%80%A2%20React%20%E2%80%A2%20APIs%20%E2%80%A2%20Moderniza%C3%A7%C3%A3o&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
 <br>
-
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=3200&pause=900&color=00D2FF&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+Hibernate+%7C+Tomcat;React+%7C+PrimeReact+%7C+TypeScript;Moderniza%C3%A7%C3%A3o+e+evolu%C3%A7%C3%A3o+de+sistemas+corporativos;APIs+REST+%7C+Keycloak+%7C+Bancos+Relacionais;Dados%2C+automa%C3%A7%C3%A3o+com+Python+e+estudos+de+IA" alt="Typing Animation" />
+<br>
 <a href="https://github.com/Dev-AndreGomes">
-  <img src="https://img.shields.io/github/followers/Dev-AndreGomes?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Dev-AndreGomes&label=VISITAS%20AO%20PERFIL&color=00d2ff&style=flat-square" alt="Profile views"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Dev-AndreGomes&style=for-the-badge&color=0e75b6" alt="Profile views" />
-
 </div>
-
-<br>
-
-## 🇧🇷 Sobre mim
-
-Sou desenvolvedor **Full Stack** apaixonado por tecnologia e boas práticas de engenharia de software.
-
-Tenho experiência no desenvolvimento de aplicações web, APIs REST e sistemas de gerenciamento utilizando **Java** e **Python**, tanto no back-end quanto no front-end.
-
-Atualmente estou aprofundando meus conhecimentos em arquitetura de software, Clean Code e frameworks modernos como Spring Boot, React e Django.
-
 ---
-
-## 🚀 Tecnologias
-
-**Java**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring" alt="Stack Java" />
-  <img src="https://img.shields.io/badge/JSF-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JSF" />
-  <img src="https://img.shields.io/badge/PrimeFaces-1B6AC6?style=for-the-badge&logo=java&logoColor=white" alt="PrimeFaces" />
-</p>
-
-**Python**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask" alt="Stack Python" />
-</p>
-
-**JavaScript / Front-end**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,html,css" alt="Stack JavaScript" />
-</p>
-
-**Banco de dados**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Banco de dados" />
-  <img src="https://img.shields.io/badge/DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2" />
-</p>
-
-**Ferramentas**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Ferramentas" />
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
-</p>
-
+<div align="center">
+### `✦ um pouco sobre mim ✦`
+</div>
+<img align="right" width="270" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0a0e14&text=%3C%2F%3E&fontColor=00d2ff&fontSize=80&fontAlignY=55&stroke=00d2ff&strokeWidth=1" />
+Olá! Sou **Desenvolvedor Full Stack**, com foco principal no ecossistema corporativo **Java (Spring, Hibernate, JSF, PrimeFaces)** e no desenvolvimento de interfaces modernas e reativas com **React e PrimeReact**.
+No meu dia a dia profissional, atuo tanto na **manutenção e evolução de sistemas corporativos e legados** quanto no processo de **modernização tecnológica**, migrando aplicações legadas para arquiteturas escaláveis baseadas em **APIs RESTful**, frontend contemporâneo e autenticação centralizada com **Keycloak**, além de suporte e gestão em servidores de aplicação **Apache Tomcat**.
+Atualmente, minhas principais frentes de atuação e estudo são:
+* ☕ **Backend robusto** com Java, Spring Boot, Hibernate e servidores Apache Tomcat
+* ⚛️ **Frontend moderno** com React, PrimeReact, JavaScript e TypeScript
+* 🔄 **Modernização de legado:** transição de arquiteturas JSF/PrimeFaces para SPAs desacopladas com APIs
+* 🗄️ **Bancos de dados relacionais:** vivência corporativa com **IBM DB2**, além de **PostgreSQL** e **MySQL**
+* 🔐 **Segurança e Identidade:** gestão de acessos e autenticação com **Keycloak**
+* 📊 **Dados, Automação & IA:** scripts e análise de dados com Python, testes em containers com **Docker** e aprofundamento constante em **Inteligência Artificial aplicada**
+<br clear="right"/>
 ---
-
-## 🌱 Atualmente estudando
-
-`Spring Boot` · `React` · `Django` · `Flask` · `Arquitetura de Software` · `APIs REST` · `Clean Code`
-
----
-
-## 📌 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 📚 **[EducaMidia](https://github.com/Dev-AndreGomes/EducaMidia)** | Sistema web voltado para educação | JavaScript, HTML, CSS |
-| 🔌 **[LibraryApi](https://github.com/Dev-AndreGomes/LibraryApi)** | API REST para gerenciamento de biblioteca | JavaScript, Node.js |
-| 🗄️ **Gerenciamento de Dados** | Sistema desktop em Java | Java |
-
-> 🔜 Novos projetos em breve!
-
----
-
-## 📊 Estatísticas
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-AndreGomes&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-AndreGomes&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dev-AndreGomes&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-AndreGomes&theme=github-dark" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-AndreGomes&theme=algolia&no-frame=true&margin-w=10" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dev-AndreGomes/Dev-AndreGomes/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-<a href="https://github.com/Dev-AndreGomes"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/andregomesdossantosfilho"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="mailto:dev.andregomess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-
-</div>
-
-<div align="center">
-
-### ⭐ Obrigado pela visita!
-
-> *"Transformando ideias em soluções através da tecnologia."*
-
-</div>
-
-<br>
-
----
-
-## 🇺🇸 About Me
-
-I'm a **Full Stack Developer** with a strong interest in software engineering practices, clean architecture, and building applications that are both functional and maintainable.
-
-My background spans both the **Java** and **Python** ecosystems, which lets me move comfortably across back-end and front-end work — from designing REST APIs and data-driven systems to building the interfaces that consume them.
-
-Right now, I'm focused on leveling up in three areas:
-
-- 🏗️ **Software architecture** — writing code that scales and stays readable as projects grow
-- 🧹 **Clean Code principles** — applying them beyond theory, in real day-to-day development
-- ⚙️ **Modern frameworks** — going deeper into Spring Boot, React, and Django
-
-I enjoy the process of turning a problem into a working system — thinking through the data model, the API contracts, and the user experience, and then actually seeing it come together end to end.
-
-### 🛠️ Tech Stack
-
-| Area | Technologies |
-|---|---|
-| **Java** | Java, Spring, JSF, PrimeFaces |
-| **Python** | Python, Django, Flask |
-| **JavaScript / Front-end** | JavaScript, React, Node.js, HTML, CSS |
-| **Databases** | MySQL, PostgreSQL, SQLite, IBM DB2 |
-| **Tools** | Git, GitHub, VS Code, IntelliJ IDEA, DBeaver |
-
-### 📌 Featured Projects
-
-- 📚 **EducaMidia** — Web application focused on education
-- 🔌 **LibraryApi** — REST API for library management
-- 🗄️ **Data Management** — Java desktop application
-
-> 🔜 New projects coming soon!
-
-<div align="center">
-
-### ⭐ Thanks for visiting!
-
-> *"Turning ideas into solutions through technology."*
-
-</div>
+## `⚡ TECNOLOGIAS & FERRAMENTAS`
