@@ -282,16 +282,6 @@ Projeto focado em estruturação, ordenação e manipulação de fluxos de dados
 
 <div align="center">
 
-## `🌐 contribution garden`
-
-<img src="https://raw.githubusercontent.com/Dev-AndreGomes/Dev-AndreGomes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
 ## `⌁ vamos conversar?`
 
 <br>
